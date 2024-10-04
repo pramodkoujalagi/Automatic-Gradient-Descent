@@ -1,1 +1,2 @@
-# Automatic-Gradient-Descent
+# Automatic Gradient Descent (Scalar)
+
